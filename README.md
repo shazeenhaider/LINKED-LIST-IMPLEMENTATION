@@ -17,3 +17,7 @@ we build a Linked List program in C  it's almost like organizing a chain of peop
 Deletion works in the same human sense. Imagine you want to remove a person from the chain. You don’t need to break the entire chain; you just redirect the hand of the person before them to the next person. So, in code, we find the node to delete and change the next pointer of the previous node
 
 Traversal is like reading the entire guest list — you start at the head and move node by node, printing or using the data. It’s simple but essential for viewing or working with the data in the list
+
+**********output*********
+![Image](https://github.com/user-attachments/assets/c22928a8-81dc-45cc-9898-982223fa2b9c)
+
